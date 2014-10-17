@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ked:home|Door43 (ked)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ked|d43-ked repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ked/archive/master.zip|d43-ked.zip]]
+
+**Recent Changes**
+{{changes>ns = ked}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ked|Ethnologue data]]
+
